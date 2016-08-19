@@ -3,6 +3,14 @@
   "version": "0.0.1",
   "description":"this is my first test npm package",
   "main":"censortext",
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/dongleizi/Studywang/tree/master/nodejs/censorify"
+  },
+  "keywords":[
+    "censor",
+    "wang"
+  ],
   "dependencies":{},
   "engines":{
     "node":"*"
