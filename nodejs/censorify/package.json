@@ -1,0 +1,10 @@
+{
+  "name": "censorify",
+  "version": "0.0.1",
+  "description":"this is my first test npm package",
+  "main":"censortext",
+  "dependencies":{},
+  "engines":{
+    "node":"*"
+  }
+}
