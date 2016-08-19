@@ -1,0 +1,11 @@
+npm version 当前程序安装的版本如下：
+    { npm: '3.7.3',
+      ares: '1.10.1-DEV',
+      http_parser: '2.6.2',
+      icu: '56.1',
+      modules: '47',
+      node: '5.9.0',
+      openssl: '1.0.2g',
+      uv: '1.8.0',
+      v8: '4.6.85.31',
+      zlib: '1.2.8' }
