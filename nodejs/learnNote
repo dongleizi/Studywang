@@ -1,4 +1,4 @@
-npm version 当前程序安装的版本如下：
+npm version 当前程序安装的版本你可以看到如下信息：
     { npm: '3.7.3',
       ares: '1.10.1-DEV',
       http_parser: '2.6.2',
@@ -9,3 +9,14 @@ npm version 当前程序安装的版本如下：
       uv: '1.8.0',
       v8: '4.6.85.31',
       zlib: '1.2.8' }
+npm search <search_String>  在存储库中查找模块包
+npm install packageName（@version）（-g）安装
+npm remove package 删除一个模块
+npm pack 把在一个package.json文件中定义的模块封装成.tgz文件
+npm view packageName 显示模块的详细信息
+npm publish 把在一个package.json文件中定义的模块发布到注册表中
+npm unpublish 取消发布你已发布的一个模块
+owner：允许你在存储库中添加、删除包和列出包的所有者
+     ：npm add bdayley myModeule
+     ：npm rm bdayley myModeule
+     ：npm ls myModeule
